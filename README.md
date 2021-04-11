@@ -1,6 +1,6 @@
 # My-ErLang-Learning
 I tried :)
 
-# TASK 1: 
-## Determine if the list is contained as a sequential subscription in another list.  
-## Определить, содержится ли список в виде последовательного подписка в другом списке.
+## TASK 1: 
+Determine if the list is contained as a sequential subscription in another list.  
+Определить, содержится ли список в виде последовательного подписка в другом списке.
